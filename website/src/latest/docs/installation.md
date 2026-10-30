@@ -173,7 +173,7 @@ Requires a Linux distribution with classic confinement support.
 <template v-slot:links>
 
 [View package](https://www.npmjs.com/package/@go-task/cli)
-[Source](https://github.com/go-task/task/blob/main/package.json)
+[Source](https://github.com/go-task/task/blob/main/.goreleaser.yml)
 
 </template>
 
@@ -435,7 +435,7 @@ pacstall -I go-task-deb
 
 <template v-slot:links>
 
-[View package](https://pkgx.dev/pkgs/taskfile.dev)
+[View package](https://pkgx.dev/pkgs/taskfile.dev/)
 [Source](https://github.com/pkgxdev/pantry/blob/main/projects/taskfile.dev/package.yml)
 
 </template>

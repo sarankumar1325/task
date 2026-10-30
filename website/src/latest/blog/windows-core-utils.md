@@ -131,8 +131,9 @@ project][sponsor]!
   https://github.com/mvdan/sh/pulls?q=is%3Apr+author%3Aandreynering+is%3Aclosed+sort%3Acreated-asc
 [u-root]: https://github.com/u-root/u-root
 [uroot-interface]:
-  https://github.com/u-root/u-root/blob/main/pkg/core/command.go
-[uroot-base]: https://github.com/u-root/u-root/blob/main/pkg/core/base.go
+  https://github.com/u-root/u-root/blob/28a9b144b0c9f962581621ee3993e1f31c51d56b/pkg/core/command.go
+[uroot-base]:
+  https://github.com/u-root/u-root/blob/28a9b144b0c9f962581621ee3993e1f31c51d56b/pkg/core/base.go
 [middleware]:
   https://github.com/mvdan/sh/blob/master/x/coreutils/coreutils.go
 [task-core-utils]: ../docs/reference/environment.md#task-core-utils
